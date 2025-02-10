@@ -1,0 +1,5 @@
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFService\bin\Debug\WCFService.dll
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFService\bin\Debug\WCFService.pdb
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFService\obj\Debug\WCFService.dll
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFService\obj\Debug\WCFService.pdb

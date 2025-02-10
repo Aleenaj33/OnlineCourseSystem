@@ -1,0 +1,7 @@
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\bin\Debug\WCFService.dll
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\bin\Debug\WCFService.pdb
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFClient\obj\Debug\WCFClient.pdb

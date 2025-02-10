@@ -1,0 +1,8 @@
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\bin\Debug\WCFService.dll
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\bin\Debug\WCFService.pdb
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\obj\Debug\WCFHost.csprojResolveAssemblyReference.cache
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\Aleena\Desktop\PROJECT\OnlineCourseSystem\WCFHost\obj\Debug\WCFHost.pdb
